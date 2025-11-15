@@ -56,7 +56,7 @@ banco_de_dados = [
         'número': '36',
         'cpf': '12368437844',
         'celular': '11988888888',
-        'e-mail': 'robertas@gmail.com',
+        'e-mail': 'roberta@gmail.com',
         'senha': 'FariasR10',
         'conta': '32678100',
         'saldo': 14.91,
